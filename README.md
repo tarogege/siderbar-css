@@ -2,7 +2,7 @@
 前端100练---1
 实现可以伸缩的侧边栏效果
 ## 在线demo
-[在线demo](https://codesandbox.io/p/github/tarogege/siderbar-html/draft/elated-stitch?file=%2FREADME.md)
+[codesandbox在线demo](https://codesandbox.io/p/github/tarogege/siderbar-html/draft/elated-stitch?file=%2FREADME.md)
 ## 主要文件
 * html：index.html
 * css: style.css
@@ -24,4 +24,4 @@
 * 事件监听
 
 ## 前端交流，获取更多前端咨询加微信
-
+[微信]（./WechatIMG1.jpeg '毛毛的微信号'）
