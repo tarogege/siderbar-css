@@ -3,6 +3,10 @@
 实现可以伸缩的侧边栏效果
 ## 在线demo
 [在线demo](https://codesandbox.io/p/github/tarogege/siderbar-html/draft/elated-stitch?file=%2FREADME.md)
+## 主要文件
+* html：index.html
+* css: style.css
+* script: script.js
 
 ## css核心要点
 * 使用close class来控制侧边栏伸缩
